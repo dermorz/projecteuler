@@ -8,7 +8,7 @@ Each solution
 * applies to the "one-minute rule" 
 * has been zipped with the solution's answer as password to avoid spoilers
 
-euler.py.zip
+euler.zip
 --------
-The password for euler.py.zip is the password for problem 3 as it is used here for the first time.
+The password for euler.zip is the password for problem 3 as it is used here for the first time.
 
